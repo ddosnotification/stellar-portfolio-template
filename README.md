@@ -27,12 +27,12 @@ A modern, animated portfolio template featuring 3D starfield background, dramati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quantum-portfolio.git
+git clone https://github.com/ddosnotification/stellar-portfolio-template.git
 ```
 
 2. Open `index.html` in your browser
 
-3. Customize the content in `index.html`
+3. Customize the content in `index.html` or `/css/style.css` or `/js/script.js`
 
 ## 🎨 Customization
 
