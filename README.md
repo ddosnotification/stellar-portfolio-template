@@ -82,7 +82,7 @@ Give a ⭐️ if you like this project!
 
 ## 📧 Contact
 
-Questions? Feel free to open an issue or reach out to gejdos@alos.gg
+Questions? Feel free to open an issue or reach out to [me](https://t.me/ddosnotification)
 
 ---
 Created with 💙 by ddosnotification
