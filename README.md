@@ -2,8 +2,6 @@
 
 A modern, animated portfolio template featuring 3D starfield background, dramatic typography, and smooth scrolling animations. Built with Three.js and GSAP.
 
-![Preview](https://cdn.discordapp.com/attachments/1136008461415633046/1309589903293808771/image.png)
-
 ## ✨ Features
 
 - Interactive 3D starfield background
