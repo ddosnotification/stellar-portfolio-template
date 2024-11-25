@@ -82,7 +82,7 @@ Give a ⭐️ if you like this project!
 
 ## 📧 Contact
 
-Questions? Feel free to open an issue or reach out to [me](https://t.me/ddosnotification)
+Questions? Feel free to open an issue or reach out to [me](https://x.com/ddosntfcion)
 
 ---
 Created with 💙 by ddosnotification
